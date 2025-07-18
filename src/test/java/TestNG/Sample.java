@@ -6,5 +6,6 @@ public class Sample {
 	@Test
 	public void test() {
 		System.out.println("Selenium Test");
+		//GitHub push 
 	}
 }
